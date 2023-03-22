@@ -1,0 +1,17 @@
+{
+    "name": "innoraft/task2",
+    "autoload": {
+        "psr-4": {
+            "Innoraft\\Task2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shubham pareek",
+            "email": "shubham.pareek@innoraft.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
